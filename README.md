@@ -12,6 +12,15 @@ Note: This app is just for testing purposes. You may have figured out that, even
 Note: This above is the example of what the program does.
 Important thing to know is that (You shouldn't name the files having same names in different locations) (The name once used shouldn't be used again)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Note: Update: I've updated the file and there will be more and more updates later on. This update contains a feature where you are not allowed to create two files of same name. But when you try to do that, the program will automatically change your file's name and put numbers behind it. For Example:
 "hello.txt" is already encrypted and it already exists somewhere (Anywhere in your computer)
 Now, if you try to name "hello.txt" and save it in any other location, it instead becomes saved by the name "hello1.txt" and further on. Thank You.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Note: Update: I've again updated the file and there will still be more updates later on. This update contains a feature where you are allowed to get "Help" from the 
+Help Section. In the help section, 3 options are added (i.e "How To Use?", "Backup","Clear Data"). If you wish to know how to use the app, then simply head to Help
+Section and select the How To Use? option which will tell you exactly how you can use this app. If you wish to backup all your encrypted files at once, you can click
+Backup from the same option and if you wish to Clear All The Files That You Have Ever Created From The Application, You Can Easily Click Clear Data From The Same Option.
+Thank You
