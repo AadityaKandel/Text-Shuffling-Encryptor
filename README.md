@@ -24,3 +24,12 @@ Help Section. In the help section, 3 options are added (i.e "How To Use?", "Back
 Section and select the How To Use? option which will tell you exactly how you can use this app. If you wish to backup all your encrypted files at once, you can click
 Backup from the same option and if you wish to Clear All The Files That You Have Ever Created From The Application, You Can Easily Click Clear Data From The Same Option.
 Thank You
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Note: Update: I've again updated the file and there will still be more updates later on. This update may just be the perfectly made and many many times tested update
+ever. In this update, I've added more features. Firstly, I moved the "Backup" and "Clear Data" to the "Tools" option and tested these features again and corrected some
+errors. I've also added two more features in the "Tools" option. First one is called "Multi Encrypt" and by the name itsef, you can easily know that this will encrypt
+multiple of your files all at once. All you need to do is give it the multiple file names and a location where encrypted files can be saved. Second feature is called
+"Multi Decrypt" and by the name itself you can easily know that it'll decrypt multiple files that you choose by yourself to be decrypted. Remember that, for this feature
+to work, there should already be files that were already encrypted by this app. This provides you the freedom to choose which files that you want to Decrypt and which not.
+Thank You.
